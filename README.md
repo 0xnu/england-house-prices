@@ -69,7 +69,7 @@ The system needs a CSV file with these columns:
 + `May 2024`: Previous year prices (with £ symbol)
 + `Difference`: Annual percentage change
 
-The data (UK House Price Index England) is from [HM Land Registry](https://www.gov.uk/government/statistics/uk-house-price-index-for-may-2025/uk-house-price-index-england-may-2025).
+The data (UK House Price Index England: May 2025) is from [HM Land Registry](https://www.gov.uk/government/statistics/uk-house-price-index-for-may-2025/uk-house-price-index-england-may-2025).
 
 ### Run the System
 
